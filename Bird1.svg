@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="2949.6196"
-   height="2252.0293"
-   viewBox="0 0 780.42017 595.84943"
+   width="59"
+   height="45.046398"
+   viewBox="0 0 15.610416 11.918526"
    version="1.1"
    id="svg8"
-   sodipodi:docname="wren-7747032.svg"
+   sodipodi:docname="Bird1.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,12 +21,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.34233333"
-     inkscape:cx="1481.0127"
-     inkscape:cy="1051.6066"
+     inkscape:zoom="1"
+     inkscape:cx="913"
+     inkscape:cy="225"
      inkscape:window-width="2560"
      inkscape:window-height="1377"
-     inkscape:window-x="-8"
+     inkscape:window-x="2552"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8" />
@@ -36,7 +36,7 @@
      id="metadata5" />
   <g
      id="g400"
-     transform="matrix(-1,0,0,1,784.73822,-119.29452)">
+     transform="matrix(-0.02000258,0,0,0.02000258,15.696789,-2.3861982)">
     <path
        id="path864"
        d="m 283.31209,507.21256 c -34.50544,126.5199 -44.23771,126.5199 -11.50178,137.13697 32.73591,10.61708 38.92919,16.81034 -2.65427,15.92559 -41.58349,-0.88475 -28.31216,-7.07806 -61.04808,7.96277 -32.73593,15.04082 -53.08529,14.15608 -25.65786,-5.30851 27.42736,-19.4646 12.38652,-3.53901 -17.69509,-11.50183 -30.08168,-7.96277 -2.6543,-9.73227 27.42736,-14.15604 30.08168,-4.4238 30.08168,23.00361 69.8956,-125.63519 39.814,-148.63875 21.23412,-4.42376 21.23412,-4.42376 z"
